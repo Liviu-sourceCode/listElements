@@ -1,0 +1,34 @@
+html {
+
+
+background-color: #6a7e5d;
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.container {
+
+
+width: 100%;
+
+
+}
+
+#fieldInputWords {
+
+margin-top: 25px;
+
+
+}
+
+.paragraph-styling {
+
+margin: 0;
+font-size: 20px;
+cursor: pointer;
+
+
+
+}
+
